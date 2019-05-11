@@ -12,3 +12,9 @@
     color: black;
     margin: 12px 20%;
 }
+
+.loading-bar {
+    font-family: monospace;
+    font-size: 16px;
+    text-align: center;
+}
