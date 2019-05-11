@@ -1,0 +1,14 @@
+
+.intro {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.breaf {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: black;
+    margin: 12px 20%;
+}
